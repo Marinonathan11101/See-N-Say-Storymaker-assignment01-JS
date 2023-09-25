@@ -1,0 +1,73 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    padding: 2em 5em;
+}
+
+button {
+    padding: 1em 2em;
+    border-radius: 5px;
+    border: none;
+    color: black;
+
+}
+
+#noun1 {
+    background-color: purple;
+
+}
+
+p {
+    padding: 2em 5em;
+}
+
+#verb {
+    background-color: aqua;
+}
+
+#adjective {
+    background-color: greenyellow;
+}
+
+#noun2 {
+    background-color: orange;
+}
+
+#setting {
+    background-color: pink;
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    text-align: center;
+    background-color: yellow;
+}
+
+#playback{
+    background-color: red;
+}
+
+#random{
+    background-color: blue;
+}
+
+#reset{
+    background-color: pink;
+}
+
+h2{
+    padding: 1em 2em;
+}
+
+.image img{
+    height: 500px;
+    width: 500px;
+}
